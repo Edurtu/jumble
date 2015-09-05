@@ -1,6 +1,7 @@
-﻿"""
+"""
 	Programa que imprime números por pantalla.
 	Author: Eduardo Ortega
+	Date: 5 septiembre
 """
 
 # ---------------------------------
